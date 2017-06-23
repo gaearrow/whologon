@@ -13,7 +13,7 @@ Windows 7 X64
 
 ## Usage
 
-Run EventLogonStat.bat as administrator
+Run whologon.bat as administrator
 
 
 ## Several Situations
